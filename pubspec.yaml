@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   vector_tile:
     git:
-      url: https://github.com/connor-goTenna/dart-vector-tile.git
+      url: https://github.com/gotenna/dart-vector-tile.git
       ref: pro-protobuf-compat
   fixnum: ^1.0.0
   collection: ^1.19.1
